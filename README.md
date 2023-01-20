@@ -2,6 +2,10 @@
 
 Live URL - https://the-real-avinash.github.io/CredClone/
 
+Animation added using Animista - Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+
+Also uses the Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
