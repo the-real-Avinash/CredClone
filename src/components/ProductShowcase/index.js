@@ -12,9 +12,9 @@ const ProductShowCase = () => {
   };
 
   const options = {
-    root: null,
-    rootMargin: "0px",
-    threshold: 0.5,
+    root: null, //null
+    rootMargin: "0px", //margin from bottom
+    threshold: 0.5, //atleast half portion is visible
   };
 
   useEffect(() => {
