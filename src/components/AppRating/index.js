@@ -6,6 +6,7 @@ const getIosPrefix = () => {
   return (
     <img
       src="https://web-images.credcdn.in/_next/assets/images/home-page/apple-store-logo.png"
+      alt="apple store"
       className="app-rating-icon"
     />
   );
@@ -15,6 +16,7 @@ const getAndroidPrefix = () => {
   return (
     <img
       src="	https://web-images.credcdn.in/_next/assets/images/home-page/play-store-logo.png"
+      alt="playstore logo"
       className="app-rating-icon"
     />
   );
@@ -29,7 +31,7 @@ const index = () => {
             4.8
             <img
               src="https://web-images.credcdn.in/_next/assets/images/home-page/rating-ios.png"
-              alt=""
+              alt="ios"
               className="app-rating-stars"
             />
           </div>
@@ -51,7 +53,7 @@ const index = () => {
             4.7
             <img
               src="	https://web-images.credcdn.in/_next/assets/images/home-page/rating-android.png"
-              alt=""
+              alt="android"
               className="app-rating-stars"
             />
           </div>
