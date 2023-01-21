@@ -8,6 +8,20 @@ Animation added using Animista - Animista is a CSS animation library and a place
 
 Also uses the Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.
 
+![Screenshot (40)](https://user-images.githubusercontent.com/109721141/213859196-680866cc-8c0e-4071-8e55-f83e0f0b950f.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/109721141/213859197-f2984b63-e434-498d-89fd-d404e1f45f6e.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/109721141/213859198-60f1d9f6-9eb0-48cd-9828-afa20aa75517.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/109721141/213859200-6c97d0ab-b201-4981-a03b-85b4b3c08fec.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/109721141/213859201-bcdd44ef-db38-4764-a981-7e08164d6192.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/109721141/213859202-08ba51d6-2165-4fdf-a9cf-0f4c75b6dc64.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/109721141/213859203-b30b26c7-d095-4c9d-b66f-bb37a90850ba.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/109721141/213859204-8e9e3d1a-fe4c-4b76-86fc-376a89158eb0.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/109721141/213859206-5ce92eeb-717f-402e-a705-18b96274224d.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/109721141/213859207-1fec61bd-7ea6-453a-9739-96bb51824a3f.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/109721141/213859208-c7a8f348-582b-4b30-9c62-c3255bce4aa7.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/109721141/213859209-2ca1032f-9ccf-4be8-ba2d-ba7ea82d6d3a.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/109721141/213859210-ca8d5905-cdc0-4b76-9eb4-a1f2c1b95496.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
