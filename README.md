@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-Live URL - https://the-real-avinash.github.io/CredClone/
+Live Website URL - https://the-real-avinash.github.io/CredClone/
+
+A fully responsive clone of Cred and FinTech startup in india using React Js , HTML CSS . Various types of features are included in this project such as animation
 
 Animation added using Animista - Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 
